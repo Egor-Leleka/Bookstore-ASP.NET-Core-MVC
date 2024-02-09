@@ -1,0 +1,59 @@
+﻿@model List<Company>
+
+<div class="container">
+	<div class="row pt-4 pb-3 ">
+		<div class="col-6">
+			<h2>Company List</h2>
+		</div>
+
+		<div class="col-6 text-end">
+			<a asp-controller="Company" asp-action="Upsert" class="btn btn-primary">
+				<i class="bi bi-plus-circle"> </i>
+				Add new
+			</a>
+		</div>
+	</div>
+
+	<table id="tblData" class="table table-bordered table-striped text-center" width="100%">
+		<thead>
+			<tr>
+				<th>Company Name</th>
+				<th>Street Address</th>
+				<th>City</th>
+				<th>State</th>
+				<th>Postal Code</th>
+				<th>Phone Number</th>
+				<th style="width:250px"></th>
+			</tr>
+		</thead>
+		@* <tbody>
+		@foreach (var product in Model)
+		{
+		<tr>
+		<td>@product.Title</td>
+		<td>@product.ISBN</td>
+		<td>@product.ListPrice</td>
+		<td>@product.Author</td>
+		<td>@product.Category.Name</td>
+		<td>
+		<div >
+		<a asp-controller="Company" asp-action="Upsert" asp-route-id="@product.Id" class="btn btn-success mx-2" style="width:90px">
+		<i class="bi bi-pencil"></i> Edit
+		</a>
+
+		<a asp-controller="Company" asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger mx-2" style="width:90px">
+		<i class="bi bi-trash3"></i> Delete
+		</a>
+		</div>
+
+
+		</td>
+		</tr>
+		}
+		</tbody> *@
+	</table>
+</div>
+
+@section Scripts {
+	<script src="~/js/company.js"></script>
+}

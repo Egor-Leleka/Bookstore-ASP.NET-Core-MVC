@@ -1,0 +1,35 @@
+version: '3.4'
+
+services:
+  bookstoreweb:
+    image: ${DOCKER_REGISTRY-}bookstoreweb
+    build:
+      context: .
+      dockerfile: BookstoreWeb/Dockerfile
+    ports:
+      - "3000:80" # Mapping application port to host port
+    depends_on:
+      - bookstoredb
+    networks:
+      - bookstorewebapp
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - DB_HOST=bookstoredb
+      - DB_NAME=Bookstore
+      - DB_SA_PASSWORD=YourStrongPassword1!
+
+  bookstoredb:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: bookstore-db-sqlserver
+    ports:
+      - "1433:1433" # Mapping SQL Server port to host port
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword1! # Replace with your desired password
+      - MSSQL_PID=Developer
+      - MSSQL_TCP_PORT=1433
+    networks:
+      - bookstorewebapp
+
+networks:
+  bookstorewebapp:

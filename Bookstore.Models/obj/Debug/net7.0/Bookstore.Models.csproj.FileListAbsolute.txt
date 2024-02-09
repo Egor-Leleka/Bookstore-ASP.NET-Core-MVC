@@ -1,0 +1,15 @@
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\bin\Debug\net7.0\Bookstore.Models.deps.json
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\bin\Debug\net7.0\Bookstore.Models.runtimeconfig.json
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\bin\Debug\net7.0\Bookstore.Models.dll
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\bin\Debug\net7.0\Bookstore.Models.pdb
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\Bookstore.Models.csproj.AssemblyReference.cache
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\Bookstore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\Bookstore.Models.AssemblyInfoInputs.cache
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\Bookstore.Models.AssemblyInfo.cs
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\Bookstore.Models.csproj.CoreCompileInputs.cache
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\Bookstore.Models.sourcelink.json
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\Bookstore.Models.dll
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\refint\Bookstore.Models.dll
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\Bookstore.Models.pdb
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\Bookstore.Models.genruntimeconfig.cache
+C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC\Bookstore.Models\obj\Debug\net7.0\ref\Bookstore.Models.dll

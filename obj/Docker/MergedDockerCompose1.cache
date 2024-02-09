@@ -1,0 +1,61 @@
+name: dockercompose3583430835780749393
+services:
+  bookstoredb:
+    container_name: bookstore-db-sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: Developer
+      MSSQL_TCP_PORT: "1433"
+      SA_PASSWORD: YourStrongPassword1!
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      bookstorewebapp: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+  bookstoreweb:
+    build:
+      context: C:\Users\lelek\OneDrive\Desktop\Study IT\Web\Bookstore-web-app-ASP.NET-Core-MVC
+      dockerfile: BookstoreWeb/Dockerfile
+    depends_on:
+      bookstoredb:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DB_HOST: bookstoredb
+      DB_NAME: Bookstore
+      DB_SA_PASSWORD: YourStrongPassword1!
+    image: bookstoreweb
+    networks:
+      bookstorewebapp: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "3000"
+        protocol: tcp
+      - mode: ingress
+        target: 80
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\lelek\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\lelek\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  bookstorewebapp:
+    name: dockercompose3583430835780749393_bookstorewebapp

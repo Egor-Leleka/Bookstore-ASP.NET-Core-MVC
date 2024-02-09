@@ -1,0 +1,1029 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\BookstoreWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookstoreWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\images\\products\\product-1\\73c90a79-bf7f-4779-9b7d-c537387f7ec5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\73c90a79-bf7f-4779-9b7d-c537387f7ec5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\images\\products\\product-1\\85401c0c-c2ba-45a7-81be-deb1cf040c17.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\85401c0c-c2ba-45a7-81be-deb1cf040c17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\images\\products\\product-1\\c6259aea-7d0c-4c87-b6d9-6fc370194060.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\c6259aea-7d0c-4c87-b6d9-6fc370194060.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\images\\products\\product-1\\cb4d871a-ac42-4d4f-9292-b9f5fe957586.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\cb4d871a-ac42-4d4f-9292-b9f5fe957586.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\images\uF05Cproducts\uF05Cproduct-1\\514414ef-0ed5-48c7-a0ee-22660298caf0.jpg",
+      "PackagePath": "staticwebassets\\images\uF05Cproducts\uF05Cproduct-1\\514414ef-0ed5-48c7-a0ee-22660298caf0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\images\uF05Cproducts\uF05Cproduct-1\\849d1e02-fb9e-42c1-87e2-b3a7add1f06d.jpg",
+      "PackagePath": "staticwebassets\\images\uF05Cproducts\uF05Cproduct-1\\849d1e02-fb9e-42c1-87e2-b3a7add1f06d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\images\uF05Cproducts\uF05Cproduct-1\\880b96f3-c3b3-4673-947b-82b7afc4498a.webp",
+      "PackagePath": "staticwebassets\\images\uF05Cproducts\uF05Cproduct-1\\880b96f3-c3b3-4673-947b-82b7afc4498a.webp"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\lelek\\OneDrive\\Desktop\\Study IT\\Web\\Bookstore-web-app-ASP.NET-Core-MVC\\BookstoreWeb\\wwwroot\\lib\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.BookstoreWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.BookstoreWeb.props",
+      "PackagePath": "build\\BookstoreWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BookstoreWeb.props",
+      "PackagePath": "buildMultiTargeting\\BookstoreWeb.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.BookstoreWeb.props",
+      "PackagePath": "buildTransitive\\BookstoreWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
